@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "JavaScript e jQuery",
+        "tituloReduzido": "JS",
+        "descricao": "No curso de JavaScript e jQuery você irá aprender como manipular os elementos do DOM a partir de interações do usuário. Primeiro eu começo com os fundamentos do JS, ensinando a sintaxe, variáveis, funções, objetos e outros elementos básicos.",
+        "conteudo": ""
+    },
+    {
+        "id": 2,
+        "titulo": "UX Design",
+        "tituloReduzido": "UX", 
+        "descricao": "O curso de UX Design – Heurísticas é focado em dicas que vão melhorar a experiência de uso da interface dos seus projetos. Boa parte das dicas são baseadas em convenções e indicações de grandes nomes como Donald Norman e Jakob Nielsen.",
+        "conteudo": ""
+    },
+    {
+        "id": 3,
+        "titulo": "CSS com SASS",
+        "tituloReduzido": "CSS",
+        "descricao": "A primeira parte do curso é focada nos fundamentos do SASS, como instalar ele e como utilizar as suas funções. Na segunda parte vamos para a prática, é nessa parte que você percebe o quanto o SASS é bom.",
+        "conteudo": ""
+    },
+    {
+        "id": 4,
+        "titulo": "Web Design Completo",
+        "tituloReduzido": "WEB",
+        "descricao": "A primeira parte do curso é focada nos fundamentos do SASS, como instalar ele e como utilizar as suas funções. Na segunda parte vamos para a prática, é nessa parte que você percebe o quanto o SASS é bom.",
+        "conteudo": ""
+    }
+]
